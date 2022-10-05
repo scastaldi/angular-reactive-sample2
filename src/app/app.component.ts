@@ -21,5 +21,5 @@ export class AppComponent implements OnInit {
     //   complete: () => console.log('complete!'),
     // });
   }
-  name = 'Tampacc 2022 - Sample2 ';
+  name = 'Tampacc 2022 - Sample2';
 }
